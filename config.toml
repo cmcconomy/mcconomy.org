@@ -1,0 +1,4 @@
+baseURL = "https://mcconomy.org/"
+languageCode = "en-us"
+title = "mcconomy.org"
+theme = "hugograyscale"
